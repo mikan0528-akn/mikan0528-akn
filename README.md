@@ -4,7 +4,7 @@
 # Operation System
 [<img src="https://img.shields.io/badge/-Android-263674.svg?logo=Android&style=flat-square">](https://www.android.com/)
 [<img src="https://img.shields.io/badge/-Windows-0078D7.svg?logo=Windows&style=flat-square">](https://www.microsoft.com/ja-jp/windows)
-[<img src="https://img.shields.io/badge/Ubuntu-Linux-4682B4.svg?logo=Linux&style=flat-square">](https://jp.ubuntu.com/)
+[<img src="https://img.shields.io/badge/Ubuntu-Linux-4FC08D.svg?logo=Ubuntu&style=flat-square">](https://jp.ubuntu.com/)
 # Service
 [<img src="https://img.shields.io/badge/-Twitter-008080.svg?logo=Twitter&style=flat-square">](https://www.twitter.com/nitadori528_hym)
 [<img src="https://img.shields.io/badge/-Instagram-00ced1.svg?logo=Instagram&style=flat-square">](https://instagram.com/mikan0528.akn)
