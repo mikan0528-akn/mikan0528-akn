@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/-Windows-0078D7.svg?logo=Windows&style=flat-square">](https://www.microsoft.com/ja-jp/windows)
 [<img src="https://img.shields.io/badge/Ubuntu-Linux-4FC08D.svg?logo=Ubuntu&style=flat-square">](https://jp.ubuntu.com/)
 # Service
-[<img src="https://img.shields.io/badge/-Twitter-008080.svg?logo=Twitter&style=flat-square">](https://www.twitter.com/nitadori528_hym)
+[<img src="https://img.shields.io/badge/-Twitter-008080.svg?logo=Twitter&style=flat-square">](https://www.twitter.com/mikan0528_akn)
 [<img src="https://img.shields.io/badge/-Instagram-00ced1.svg?logo=Instagram&style=flat-square">](https://instagram.com/mikan0528.akn)
 [<img src="https://img.shields.io/badge/-niconico-252525.svg?logo=niconico&style=flat-square">](https://www.nicovideo.jp/user/124371726)
 [<img src="https://img.shields.io/badge/-Zenn-f0ffff.svg?logo=Zenn&style=flat-square">](https://zenn.dev/nitadori528_hym)
@@ -16,4 +16,4 @@
 [<img src="https://img.shields.io/badge/-Microsoft%20Edge-az.svg?logo=microsoftedge&style=flat-square">](https://www.microsoft.com/ja-jp/edge?form=MA13FJ)
 # Other
 [<img src="https://img.shields.io/badge/-VisualStudioCode-0078D7.svg?logo=visualstudiocode&style=flat-square">](https://azure.microsoft.com/ja-jp/products/visual-studio-code)
-[<img src="https://img.shields.io/badge/-Github-black.svg?logo=Github&style=flat-square">](https://github.com/nitadori528-hym/)
+[<img src="https://img.shields.io/badge/-Github-black.svg?logo=Github&style=flat-square">](https://github.com/mikan0528-akn/)
