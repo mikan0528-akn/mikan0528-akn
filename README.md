@@ -9,7 +9,7 @@
 [<img src="https://img.shields.io/badge/-Twitter-008080.svg?logo=Twitter&style=flat-square">](https://www.twitter.com/mikan0528_akn)
 [<img src="https://img.shields.io/badge/-Instagram-00ced1.svg?logo=Instagram&style=flat-square">](https://instagram.com/mikan0528.akn)
 [<img src="https://img.shields.io/badge/-niconico-252525.svg?logo=niconico&style=flat-square">](https://www.nicovideo.jp/user/124371726)
-[<img src="https://img.shields.io/badge/-Zenn-f0ffff.svg?logo=Zenn&style=flat-square">](https://zenn.dev/nitadori528_hym)
+[<img src="https://img.shields.io/badge/-Zenn-f0ffff.svg?logo=Zenn&style=flat-square">](https://zenn.dev/mikan0528_akn)
 <img src="https://img.shields.io/badge/-Discord-4FC.svg?logo=Discord&style=flat-square">
 # Browser
 [<img src="https://img.shields.io/badge/-Google%20Chrome-yellow.svg?logo=googleChrome&style=flat-square">](https://www.google.com/intl/ja_jp/chrome/)
