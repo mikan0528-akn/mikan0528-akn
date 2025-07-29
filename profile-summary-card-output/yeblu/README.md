@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/mikan0528-akn/mikan0528-akn/master/profile-summary-card-output/yeblu/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/mikan0528-akn/mikan0528-akn/master/profile-summary-card-output/yeblu/4-productive-time.svg)
-```
-
-    
